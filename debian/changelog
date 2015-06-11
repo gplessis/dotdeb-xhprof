@@ -1,0 +1,5 @@
+xhprof (1:0.9.4-1~dotdeb+php56+zts+7.1) oldstable; urgency=medium
+
+  * Upstream version 0.9.4
+
+ -- Guillaume Plessis <gui@dotdeb.org>  Wed, 10 Jun 2015 20:44:42 -0700
